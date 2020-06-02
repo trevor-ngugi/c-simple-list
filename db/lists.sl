@@ -1,3 +1,11 @@
+#trevor
 mangoe
-banana
 tree
+banana
+milk
+%
+#ngugi
+coffee
+morty
+rick
+%
